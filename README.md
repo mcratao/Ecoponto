@@ -1,10 +1,10 @@
-# Recicla Aqui
+# Ecoponto
 
 Projeto desenvolvido para a AEP do 4º semestre do curso de Análise e Desenvolvimento de Sistemas.
 
 ## Sobre o projeto
 
-O **Recicla Aqui** é uma aplicação voltada à **ODS 12 – Consumo e Produção Responsáveis**.
+O **Ecoponto** é uma aplicação voltada à **ODS 12 – Consumo e Produção Responsáveis**.
 
 O objetivo do sistema é facilitar o descarte correto de materiais recicláveis ou reutilizáveis, permitindo que o usuário encontre, de acordo com sua localização, pontos de reciclagem, estabelecimentos e eventos próximos que recebam determinados tipos de materiais.
 
@@ -48,7 +48,7 @@ O Recicla Aqui busca centralizar essas informações e facilitar o acesso do usu
 ## Estrutura do projeto
 
   text
-recicla-aqui/
+Ecoponto/
 │
 ├── src/
 │   ├── frontend/
