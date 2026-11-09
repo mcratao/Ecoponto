@@ -1,6 +1,6 @@
 # Ecoponto
 
-Projeto desenvolvido para a AEP do 4º semestre do curso de Análise e Desenvolvimento de Sistemas.
+Projeto desenvolvido para a AEP do 4º semestre do curso de  engenharia de software.
 
 ## Sobre o projeto
 
