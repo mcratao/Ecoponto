@@ -3,5 +3,5 @@
 // 3) Cole abaixo a Project URL e a anon/public key.
 // IMPORTANTE: a anon key é própria para uso no navegador. Nunca coloque a service_role key aqui.
 
-const SUPABASE_URL = "COLE_AQUI_SUA_SUPABASE_URL";
-const SUPABASE_ANON_KEY = "COLE_AQUI_SUA_SUPABASE_ANON_KEY";
+const SUPABASE_URL = "https://oculclzaiofuvxyqyxhf.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_QG1Rf1Iihbi6ndh31Ck2Aw_AVdD5nAR";
