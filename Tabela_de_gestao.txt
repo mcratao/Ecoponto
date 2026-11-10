@@ -1,0 +1,65 @@
+Tabela de Gestão do Projeto
+
+Data de início: 01/10/2026
+
+Etapa
+
+Período
+
+Atividades planejadas
+
+Responsável
+
+Sprint 1
+
+01/10 a 15/10
+
+Desenvolvimento da interface e dos formulários de cadastro de pontos de coleta e eventos.
+
+Thiago
+
+Sprint 2
+
+16/10 a 30/10
+
+Criação do banco de dados, definição das tabelas e integração com o Supabase.
+
+Matheus
+
+Sprint 3
+
+31/10 a 13/11
+
+Implementação dos detalhes dos pontos de coleta e eventos, filtros por materiais e funcionalidades de gerenciamento.
+
+Thiago
+
+Sprint 4
+
+14/11 a 27/11
+
+Implementação e ajustes da localização geográfica, cálculo de distâncias, integração com mapas, testes e finalização do sistema.
+
+Matheus
+
+Atividades complementares da equipe
+
+Atividade
+
+Responsáveis
+
+Documentação do projeto
+
+Todos os integrantes
+
+Testes e validação das funcionalidades
+
+Todos os integrantes
+
+Revisão do código e integração das partes
+
+Matheus
+
+Versionamento e publicação no GitHub
+
+Thiago
