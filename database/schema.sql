@@ -1,5 +1,5 @@
--- EcoPerto - banco PostgreSQL para Supabase
--- Execute este arquivo no SQL Editor do Supabase.
+// banco de dados inicial 
+  
 
 create extension if not exists pgcrypto;
 
